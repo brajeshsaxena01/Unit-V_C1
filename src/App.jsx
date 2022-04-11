@@ -6,6 +6,9 @@ function App() {
   const [wicket, setWicket] = useState(2);
   const [ball, setBall] = useState(50);
   const addScore = (run) => {
+    // if(score>100){
+    //   document.getElementById()
+    // }
     setScore(score + run);
   };
   const addWicket = (w) => {
