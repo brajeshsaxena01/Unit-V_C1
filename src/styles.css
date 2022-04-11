@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 800px;
+  height: 500px;
+  border: 5px solid green;
+}
+.banner {
+  display: flex;
+  width: 100%;
+  border: 3px solid green;
+  justify-content: space-around;
+}
